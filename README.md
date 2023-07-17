@@ -1,4 +1,5 @@
 # Ludo-Chess-
+Just create 3d Unity project and replace this Assets folder 
 This is dynamic ludo or chess board made in unity. the dice button is pressed and player movement done . Currently i have made movement across the border only 
 
 Attaching screenshots.
