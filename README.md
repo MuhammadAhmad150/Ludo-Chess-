@@ -11,3 +11,14 @@ You may have to make it responsive.
 
 IT WORKS PERFECTLY.
 
+You can make it hoolow even.
+ line 162////Foe Edges Bordersonly
+                        // if(row==0 || row==rows-1 || col==0 || col==cols-1)
+                        //     tile1.SetActive(true);
+                        // else
+                        //     tile1.SetActive(false);
+//line166
+
+lines-111-115
+just uncomment these lines 111-115 , 162-165
+code given. THIS WILLGIVE hollow board only borders
